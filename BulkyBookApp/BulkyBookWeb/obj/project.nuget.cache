@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "KOrsNd1+Os9kPPhD/eArtPKK9TNV34GqeS6k5FCggelv6hRypP6TY4HiZRaJqqTyMic7ofDMTqK4dxsbva1BzQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Shahr\\source\\repos\\BulkyBookApp\\BulkyBookApp\\BulkyBookWeb\\BulkyBookWeb.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Shahr\\.nuget\\packages\\coverlet.collector\\3.0.3\\coverlet.collector.3.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
